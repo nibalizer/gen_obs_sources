@@ -1,0 +1,6 @@
+---
+browser_sources:
+    - name: "Spencer"
+      url: "https://obs.ninja/?view=ABCDEF&bitrate=20000&stereo&scene=1&room=someroom&label=spencer"
+    - name: "Mike"
+      url: "https://obs.ninja/?view=GHJIKL&bitrate=20000&stereo&scene=1&room=someroom&label=Mike"
